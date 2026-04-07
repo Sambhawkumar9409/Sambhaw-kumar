@@ -2,7 +2,7 @@
   <img src="image.png" alt="logo" width="100%"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Kundan+Kumar)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Sambhaw+Kumar)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+RPA+Developer+from+India)](https://git.io/typing-svg)
 
 
